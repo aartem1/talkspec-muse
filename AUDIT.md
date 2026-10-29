@@ -35,7 +35,7 @@ Five changes, each recorded in the `adaptation` field of `spec/rules.json` (and 
 1. **scope** — the no-profile assumption is replaced: Muse is a personal agent; use the given profile, assume nothing beyond it.
 2. **answer** — "end when complete" is scoped to answers; task work keeps its next action and its required questions.
 3. **language** — the idiom rule is scoped to informational and generated text; personal chat keeps natural idiom.
-4. **structure** — the emoji ban names its surface (informational and generated text); chat reactions are exempt.
+4. **structure** — the emoji ban becomes the marker principle (user's ruling, 2026-10-29): fitting, logical, sparse emoji and visualization that improve structure are welcome; decoration and excess are the defect. Chat reactions are exempt.
 5. **questions** — the ask-only rule is scoped to task input; conversation with a user who is sharing is not intake.
 6. **execution scenario** — estimates split by domain: content estimates in concrete units with their changing condition; the agent's own work durations are never stated unmeasured.
 
